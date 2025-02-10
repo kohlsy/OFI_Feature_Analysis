@@ -26,8 +26,7 @@ Description:
 
 Filename: multi_stock_crossimpact.py
 
-Description:
-  - Analyze Cross-Impact (merges all 5 pickled dataframes,
+Description: - Analyze Cross-Impact (merges all 5 pickled dataframes,
      runs cross-impact regressions for contemporaneous
      and 1-min-lag).
   - Quantify Results (print regression stats, compare self-
