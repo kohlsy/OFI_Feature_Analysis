@@ -1,5 +1,7 @@
 # OFI_Feature_Analysis
 
+This project analyzes high-frequency equity market data to compute multi-level Order Flow Imbalance (OFI) metrics and evaluate cross-asset impacts on short-term price changes. Using dimensionality reduction and regression models, it investigates the predictive power of OFI for market movements across multiple stocks from different sectors.
+
 ## Requirements
 See `requirements.txt` for Python dependencies:
 
